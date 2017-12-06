@@ -1,0 +1,13 @@
+name: overall_analysis
+title: overall_analysis
+username:
+account: mdeferrante
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 244217
+bundleId: 1117251
+url: https://mdeferrante.shinyapps.io/overall_analysis/
+when: 1512502041.64852
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: us_tweets.csv|us_tweets2.csv|www/twitter.jpg
