@@ -28,7 +28,6 @@ library(plotly)
 us_tweets <- read_csv("us_tweets_small.csv") 
 
 #write.csv(us_tweets, file = "us_tweets_small.csv")
-#write.csv(us_tweets2, file = "us_tweets2.csv")
 #gets rid of non alphabetic characters  
 us_tweets$tweet_content_stripped <- gsub("[^[:alpha:] ]", "",
                                          us_tweets$tweet_content) 
